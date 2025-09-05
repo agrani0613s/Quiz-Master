@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/siddharthrajs/quiz-master-project.git
+git clone https://github.com/agrani0613s/quiz-master-project.git
 cd quiz-master
 ```
 
